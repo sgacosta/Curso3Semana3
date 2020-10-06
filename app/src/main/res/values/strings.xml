@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="activity_name_segundaActividad">Petagram: mascotas favoritas</string>
+
+</resources>
